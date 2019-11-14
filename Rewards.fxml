@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="scene2_anchorRoot" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.main_controller">
+   <children>
+      <Pane prefHeight="600.0" prefWidth="670.0" style="-fx-background-color: #91b7d9;">
+         <children>
+            <Button fx:id="button" layoutX="569.0" layoutY="31.0" mnemonicParsing="false" onAction="#Option" prefHeight="42.0" prefWidth="87.0" text="Home" />
+            <Label layoutX="306.0" layoutY="85.0" prefHeight="120.0" prefWidth="283.0" text="Bitcoin Stock">
+               <font>
+                  <Font name="Plantagenet Cherokee" size="32.0" />
+               </font>
+            </Label>
+            <Hyperlink layoutX="57.0" layoutY="73.0" prefHeight="144.0" prefWidth="0.0" text="Hyperlink">
+               <graphic>
+                  <ImageView fitHeight="138.0" fitWidth="158.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../images/double-bitcoin.png" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Hyperlink>
+            <Label layoutX="306.0" layoutY="249.0" prefHeight="120.0" prefWidth="283.0" text="Apple Airpods">
+               <font>
+                  <Font name="Plantagenet Cherokee" size="32.0" />
+               </font>
+            </Label>
+            <Hyperlink fx:id="hyperlink" layoutX="57.0" layoutY="257.0" onAction="#Airpods" prefHeight="84.0" prefWidth="118.0" text="Hyperlink">
+               <graphic>
+                  <ImageView fitHeight="116.0" fitWidth="171.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../images/airpods.jpg" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Hyperlink>
+            <Hyperlink layoutX="57.0" layoutY="398.0" prefHeight="84.0" prefWidth="118.0" text="Hyperlink">
+               <graphic>
+                  <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../images/waterBottle.jpg" />
+                     </image>
+                  </ImageView>
+               </graphic>
+            </Hyperlink>
+            <Label layoutX="306.0" layoutY="416.0" prefHeight="120.0" prefWidth="335.0" text="Insulated Water Bottle">
+               <font>
+                  <Font name="Plantagenet Cherokee" size="32.0" />
+               </font>
+            </Label>
+            <Label layoutX="373.0" layoutY="506.0" prefHeight="120.0" prefWidth="283.0" text="Water Coins">
+               <font>
+                  <Font name="Rockwell" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <TitledPane animated="false" prefHeight="12.0" prefWidth="670.0" text="Hydration">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+        </content>
+      </TitledPane>
+   </children>
+</AnchorPane>

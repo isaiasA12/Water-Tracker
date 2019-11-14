@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.main_controller">
+   <children>
+      <AnchorPane fx:id="scene2_anchorRoot" prefHeight="600.0" prefWidth="600.0" style="-fx-background-color: #87CEFA;">
+         <children>
+            <StackPane prefHeight="100.0" prefWidth="600.0">
+               <children>
+                  <Button fx:id="button" mnemonicParsing="false" onAction="#Menu" text="Logout" translateX="274.0" translateY="-20.0" />
+               </children></StackPane>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cfedf7" height="200.0" layoutX="65.0" layoutY="127.0" stroke="BLACK" strokeType="INSIDE" width="200.0">
+               <effect>
+                  <DropShadow height="8.0" radius="6.75" />
+               </effect></Rectangle>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cfedf7" height="200.0" layoutX="332.0" layoutY="127.0" stroke="BLACK" strokeType="INSIDE" width="200.0">
+               <effect>
+                  <DropShadow height="8.0" radius="6.75" />
+               </effect></Rectangle>
+            <Button fx:id="button" layoutX="73.0" layoutY="141.0" mnemonicParsing="false" onAction="#Tracker" prefHeight="172.0" prefWidth="184.0" text="Tracker">
+               <font>
+                  <Font name="Book Antiqua Bold" size="20.0" />
+               </font></Button>
+            <Button fx:id="button" layoutX="340.0" layoutY="141.0" mnemonicParsing="false" onAction="#Rewards" prefHeight="172.0" prefWidth="184.0" text="Rewards">
+               <font>
+                  <Font name="Book Antiqua Bold" size="20.0" />
+               </font></Button>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#cfedf7" height="200.0" layoutX="200.0" layoutY="353.0" stroke="BLACK" strokeType="INSIDE" width="200.0">
+               <effect>
+                  <DropShadow height="8.0" radius="6.75" />
+               </effect></Rectangle>
+            <Button fx:id="button" layoutX="208.0" layoutY="367.0" mnemonicParsing="false" onAction="#Goals" prefHeight="172.0" prefWidth="184.0" text="Goals">
+               <font>
+                  <Font name="Book Antiqua Bold" size="20.0" />
+               </font></Button>
+         </children>
+      </AnchorPane>
+      <TitledPane animated="false" prefHeight="0.0" prefWidth="600.0" text="Hydration">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" />
+        </content>
+      </TitledPane>
+   </children>
+</AnchorPane>
