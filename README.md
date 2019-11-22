@@ -1,29 +1,7 @@
-# Foobar
+### Wet Me More
 
-Foobar is a Python library for dealing with word pluralization.
+Wet Me More is a revolutionary application that allows users (or as we call them, HydroHomies), keep track of their daily water-intake. 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+To properly use Wet Me More and all of its wonderful applications, download the latest .zip file.
