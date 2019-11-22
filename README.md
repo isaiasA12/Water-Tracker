@@ -19,20 +19,20 @@ All necessary libraries, images, and files are all in the project!
 - Options Page
   - User will decide which part of the application they would like to enter.  The three options include:
     - 1. Tracker
->> 2. Rewards
->> 3. Goals
+    - 2. Rewards
+    - 3. Goals
 
 - Tracker Page
-> User can enter their daily water-intake amount here! Users can select out of the four buttons or manually input an amount they they drank.  When entered, Wet Me More will keep track of all values as well as convert that amount into WaterCoins.
+  - User can enter their daily water-intake amount here! Users can select out of the four buttons or manually input an amount they they drank.  When entered, Wet Me More will keep track of all values as well as convert that amount into WaterCoins.
 
 - Rewards Page
-> Users can use the WaterCoins that they earned to reward themselves with a special price!  The three rewards include:
->> 1. Bitcoin
->> 2. Airpods
->> 3. Water Bottle
+  - Users can use the WaterCoins that they earned to reward themselves with a special price!  The three rewards include:
+    - 1. Bitcoin
+    - 2. Airpods
+    - 3. Water Bottle
 
 - Goals Page
-> Users will complete challenges that will reward them with WaterCoins.  
+  - Users will complete challenges that will reward them with WaterCoins.  
 
 ## Contributors 
 - Leader/Tracker - Fabian
