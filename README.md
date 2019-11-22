@@ -13,8 +13,8 @@ All necessary libraries, images, and files are all in the project!
 ## Usage and Options
 
 - Login Page
-> Login Page will be prompt the user to either login or create a Wet Me More account.
->> If creating an account, users must create a valid username and password as well as enter their age and weight.
+  - Login Page will be prompt the user to either login or create a Wet Me More account.
+  - If creating an account, users must create a valid username and password as well as enter their age and weight.
 
 - Options Page
 > User will decide which part of the application they would like to enter.  The three options include:
