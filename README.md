@@ -34,5 +34,11 @@ All necessary libraries, images, and files are all in the project!
 - Goals Page
 > Users will complete challenges that will reward them with WaterCoins.  
 
-
+## Contributors 
+Leader/Tracker - Fabian
+Login/Support - eesa
+Rewards/Support - Daniel Tellez
+Goals/Support - Hao
+Visuals/Design - John
+Support - Humberto
 
