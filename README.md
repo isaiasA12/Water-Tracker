@@ -17,8 +17,8 @@ All necessary libraries, images, and files are all in the project!
   - If creating an account, users must create a valid username and password as well as enter their age and weight.
 
 - Options Page
-> User will decide which part of the application they would like to enter.  The three options include:
->> 1. Tracker
+  - User will decide which part of the application they would like to enter.  The three options include:
+    - 1. Tracker
 >> 2. Rewards
 >> 3. Goals
 
