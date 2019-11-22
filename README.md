@@ -10,14 +10,29 @@ To properly use Wet Me More and all of its wonderful applications, download the 
 
 All necessary libraries, images, and files are all in the project!
 
-## Usage
+## Usage and Options
 
-- First Item
-> Login Page - Login Page will immediately be prompting the user to either login or create a Wet Me More account.
+- Login Page
+> Login Page will be prompt the user to either login or create a Wet Me More account.
+>> If creating an account, users must create a valid username and password as well as enter their age and weight.
 
-- Second Item
-> Options Page - User will decide which part of the application they would like to enter.  The three options include:
+- Options Page
+> User will decide which part of the application they would like to enter.  The three options include:
 >> 1. Tracker
 >> 2. Rewards
 >> 3. Goals
+
+- Tracker Page
+> User can enter their daily water-intake amount here! Users can select out of the four buttons or manually input an amount they they drank.  When entered, Wet Me More will keep track of all values as well as convert that amount into WaterCoins.
+
+- Rewards Page
+> Users can use the WaterCoins that they earned to reward themselves with a special price!  The three rewards include:
+>> 1. Bitcoin
+>> 2. Airpods
+>> 3. Water Bottle
+
+- Goals Page
+> Users will complete challenges that will reward them with WaterCoins.  
+
+
 
