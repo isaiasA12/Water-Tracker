@@ -1,6 +1,6 @@
 # Hydration
 
-Wet Me More is a revolutionary application that allows users (or as we call them, HydroHomies), to keep track of their daily water-intake! Users are able to keep track of their intake, complete challenges, and obtain rewards for drinking smart!  
+Hydration is a revolutionary application that allows users (or as we call them, HydroHomies), to keep track of their daily water-intake! Users are able to keep track of their intake, complete challenges, and obtain rewards for drinking smart!  
 
 ## Installation
 
