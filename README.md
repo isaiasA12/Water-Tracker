@@ -1,4 +1,4 @@
-# Wet Me More
+# Hydration
 
 Wet Me More is a revolutionary application that allows users (or as we call them, HydroHomies), to keep track of their daily water-intake! Users are able to keep track of their intake, complete challenges, and obtain rewards for drinking smart!  
 
@@ -35,10 +35,10 @@ All necessary libraries, images, and files are all in the project!
   - Users will complete challenges that will reward them with WaterCoins.  
 
 ## Contributors 
-- Leader/Tracker - Fabian
-- Login/Support - eesa
+- Leader/Tracker - Fabian Aguilar
+- Login/Support - Isaias A Martinez
 - Rewards/Support - Daniel Tellez
-- Goals/Support - Hao
-- Visuals/Design - John
-- Support - Humberto
+- Goals/Support - Hao Tran
+- Visuals/Design - John Baldwin
+- Support - Humberto Gonzalez
 
